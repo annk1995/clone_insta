@@ -18,7 +18,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 # ALLOWED_HOSTS = []
 
-# ALLOWED_HOSTS = config('ALLOWED_HOSTS', cast=Csv())
+
 
 
 
