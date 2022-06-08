@@ -60,6 +60,9 @@ Install Flask and other dependencies/Modules
 Run app using vs terminal or main terminal
 
   $ python3 manage.py runserver
+  
+# TECHNOLOGIES USED
+python3
 
 
 
