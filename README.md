@@ -1,3 +1,3 @@
 # clone_insta
 
-This is a
+This is an instagram clone.
