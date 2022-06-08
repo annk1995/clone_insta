@@ -67,6 +67,9 @@ python3
 # KNOWN BUGS 
 There are no known bugs at the moment.
 
+# CONTACT INFORMATION
+kabuikariuki052@gmail.com
+
 
 
 
