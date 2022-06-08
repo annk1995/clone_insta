@@ -64,5 +64,9 @@ Run app using vs terminal or main terminal
 # TECHNOLOGIES USED
 python3
 
+# KNOWN BUGS 
+There are no known bugs at the moment.
+
+
 
 
