@@ -72,7 +72,7 @@ WSGI_APPLICATION = 'instaclone.wsgi.application'
 #         'ENGINE': 'django.db.backends.sqlite3',
 #         'NAME': 'mydatabase',
 #     }
-# }
+
 MODE=config("MODE", default="dev")
 SECRET_KEY = config('SECRET_KEY')
 DEBUG = config('DEBUG', default=False, cast=bool)
