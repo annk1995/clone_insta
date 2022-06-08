@@ -70,7 +70,7 @@ WSGI_APPLICATION = 'instaclone.wsgi.application'
 # DATABASES = {
 #     'default': {
 #         'ENGINE': 'django.db.backends.sqlite3',
-#         'NAME': 'mydatabase',
+
 
 
 MODE=config("MODE", default="dev")
